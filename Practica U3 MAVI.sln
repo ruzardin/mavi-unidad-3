@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Practica U3 MAVI", "Practica U3 MAVI\Practica U3 MAVI.vcxproj", "{F969D558-3C4C-491E-BABD-6AB4E13A025E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F969D558-3C4C-491E-BABD-6AB4E13A025E}.Debug|x64.ActiveCfg = Debug|x64
+		{F969D558-3C4C-491E-BABD-6AB4E13A025E}.Debug|x64.Build.0 = Debug|x64
+		{F969D558-3C4C-491E-BABD-6AB4E13A025E}.Debug|x86.ActiveCfg = Debug|Win32
+		{F969D558-3C4C-491E-BABD-6AB4E13A025E}.Debug|x86.Build.0 = Debug|Win32
+		{F969D558-3C4C-491E-BABD-6AB4E13A025E}.Release|x64.ActiveCfg = Release|x64
+		{F969D558-3C4C-491E-BABD-6AB4E13A025E}.Release|x64.Build.0 = Release|x64
+		{F969D558-3C4C-491E-BABD-6AB4E13A025E}.Release|x86.ActiveCfg = Release|Win32
+		{F969D558-3C4C-491E-BABD-6AB4E13A025E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {019303EC-1B79-474F-98B4-7EB031EF7DC0}
+	EndGlobalSection
+EndGlobal
